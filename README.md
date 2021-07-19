@@ -27,6 +27,6 @@ Features:
 
 ### Support my insomnia nights😁
 ✔ https://www.buymeacoffee.com/pmiralles
-<a
+<a>
 ✔ [![Buyme a coffee on cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/pmiralles)
 </a> 
