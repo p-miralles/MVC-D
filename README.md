@@ -1,6 +1,6 @@
 # Java MVC-D
 
-###College Project written in Java.
+### College Project written in Java.
 
 Theme:
 - Simple people data management
