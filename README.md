@@ -8,7 +8,7 @@ Theme:
 Features: 
 - MVC Pattern 
 - Data Layer (MySQL) access.
-- Depured UI navigation with focus in flux protection and data integrity
+- Debugged UI navigation with focus in logic business protection and data integrity
 - Simple error handling
 
 
