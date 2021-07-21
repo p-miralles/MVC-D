@@ -46,17 +46,6 @@ Features:
   - On SQLyog, give right click on root@localhost, execute SQL script, and find the current file
   - You have now the database backup loaded
 
-----IMPORTANTE-----
-Cambiar el nombre sgaprog2 de la db, sino se va a dar cuenta que se las pasaron
-En lo posible, tomarse el trabajo de cambiar los nombres de las columnas (como alu_nombre)
-porque también se va a dar cuenta.
-Si cambian una columna que es una Foregin Key (es el campo relacionado), cambiar tambien
-la FK xq sino se rompe (Les va a figurar como INDEXES)
-
-8) Enjoy!!! Y saquense esta mierda vieja de encima. Desinstalen Netbeans y pasense a python o javascript.
-
-
-
 
 ### Support my insomnia nights😁
 ✔ https://www.buymeacoffee.com/pmiralles
