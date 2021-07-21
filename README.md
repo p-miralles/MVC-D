@@ -27,7 +27,7 @@ Features:
 - RUN AND ENJOY!!
 
 
-### Simple importing of Database (if you don´t know how to make that)
+### Simple Database importing tips (if you don´t know how to make that)
 - Install db engine: AMPPS
 - Turn on Mysql button
 - Install gestor connector: SQLyog
