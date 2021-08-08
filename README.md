@@ -30,7 +30,7 @@ Features:
 ### Simple Database importing tips (if you don´t know how to make that)
 - Install db engine: AMPPS
 - Turn on Mysql button
-- Install gestor connector: SQLyog
+- Install db Administrator: SQLyog
 - Create a new connection with the given credentials (localhost,root,mysql,3306)
 - Database: prog2
 - Open prog2 file and:
@@ -41,7 +41,7 @@ Features:
   SET FOREIGN_KEY_CHECKS=0;
   - Before the line
   Dump completed on 2020-06-20 23:17:23
-  - Add 
+  - Add: 
   SET FOREIGN_KEY_CHECKS=1;
   - On SQLyog, give right click on root@localhost, execute SQL script, and find the current file
   - You have now the database backup loaded
